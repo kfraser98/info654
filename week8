@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
+<html lang="en">
+<head>
+<meta charset-"UTF-8">
+<title> idk man </title>
 <style>
 #h1 {background-color: teal;
 padding: 10px;
@@ -8,8 +10,11 @@ font-weight: bold;
 Font-family: Helvetica}
 #h2 {color: red; font-size: 14px;}
 </style>
-<div class="header">
+</head>
+<body>
+<div class="h1">
 <h1> Welcome to my page! </h1>
 <h2> Read more about me below </h2>
 </div>
+</body>
 </html>
