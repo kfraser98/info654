@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
 <meta charset="UTF-8">
 <style>
 #h1 {background-color: teal;
@@ -13,5 +12,4 @@ Font-family: Helvetica}
 <h1> Welcome to my page! </h1>
 <h2> Read more about me below </h2>
 </div>
-</head>
 </html>
