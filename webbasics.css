@@ -1,4 +1,4 @@
 #body {background-color: #5f9ea0;}
 #header {width: 100%; text-align: center; background: black; color: white;}
 #p1 {float: right; border-style: solid; border-color: white; height: 50%; width: 20%; padding: 30px;}
-#table {text-align: center; border-style: dotted; background-color: #317873;}
+#table {float: bottom; text-align: center; border-style: dotted; background-color: #317873;}
