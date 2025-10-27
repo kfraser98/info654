@@ -4,4 +4,4 @@
 #table {float: bottom; text-align: center; border-style: dotted; 
  background-color: #317873; width: 50%; height: 25%; padding: 30px;}
 #p2 {float: left; border-color: white; height: 60%; width: 20%; padding: 30px;}
-#image {float: top; padding: 30px;}
+#image {padding: 30px; display: flex; justify-content: center; margin: 0;}
