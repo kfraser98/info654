@@ -5,4 +5,4 @@
 border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted;
  background-color: #317873; width: 50%; height: 25%;}
 #p2 {float: left; border-color: white; height: 60%; width: 20%; padding: 30px;}
-#image {max-width: 15%; height: auto; float: top;}
+#image {float: top;}
