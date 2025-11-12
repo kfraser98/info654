@@ -13,7 +13,7 @@
         var response = await fetch ('https://random.dog/woof.json')
         var data = await response.json ();
         var imgUrl = data.url;
-        document.getElementById('dogimage').innerHTML = `<"img src="${imageUrl}" alt="random dog">`;
+        document.getElementById('dogimage').innerHTML = `<img src="${imageUrl}" alt="random dog">`;
       }
     </script>
   </body>
