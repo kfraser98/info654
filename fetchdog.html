@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fetch Dog</title>
+  </head>
+  <body>
+    <h1>Hello Dog!</h1>
+    <button id="fetchDog" onclick="fetchDogImage()">Fetch dog</button>
+    <div id="dogImage"></div>
+
+    <script>
+      async function fetchDogImage() {
+        var response = await fetch ('https://random.dog')
+        var data = await response.json ();
+        var imgUrl = data.url;
+    </script>
+  </body>
+</html>
